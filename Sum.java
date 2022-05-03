@@ -6,6 +6,6 @@
       add = num1 + num2;
 
       System.out.println("Sum of these numbers: "+add);
-      System.out.println("Hello Jenkin!;
+      System.out.println("Hello Jenkin!");
    }
 }
